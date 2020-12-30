@@ -1,7 +1,7 @@
 import Component from '@bythepixel/component-loader';
 import runInView from '@bythepixel/run-in-view';
 
-class InViewSrc extends Component {
+class InViewSrcSet extends Component {
   static selector = 'img[data-srcset]'
 
   #attrs = ['srcset', 'sizes', 'type']
