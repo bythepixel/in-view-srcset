@@ -1,5 +1,5 @@
 {
-  "name": "in-view-srcset",
+  "name": "@bythepixel/in-view-srcset",
   "version": "0.1.1",
   "description": "Automatically loads responsive images using srcset.",
   "main": "dist/index.js",
