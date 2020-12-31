@@ -34,4 +34,4 @@ class InViewSrcSet extends Component {
   }
 }
 
-export default InViewSrc;
+export default InViewSrcSet;
